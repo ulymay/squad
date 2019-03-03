@@ -1,0 +1,54 @@
+/* 
+    Created on : 25-feb-2019, 12:01:20
+    Author     : Ulymay
+*/
+
+#menu{
+    width: 100%;
+    background: #3C87A6;
+    
+ }
+ 
+ .mainWrapper li {
+     border-right: 15px solid #3C87A6;
+    
+ }
+ 
+ #logo{
+     border-right: 980px solid #3C87A6;
+ }
+ .mainWrapper h2{
+       text-align: center;
+       font-family: Arial;
+       padding-top: 5px;
+       color: #fff;
+       font-size: 50px;
+ }
+ .mainWrapper h3{
+      text-align: center;
+      font-family: Arial;
+      padding-top: 1px;
+      color: #fff;
+      font-size: 20px;
+ }
+
+ .mainWrapper ul {
+     margin: 0;
+     list-style: none;
+     padding: 0;
+     display:flex;
+     justify-content: flex-end;
+ }
+ 
+
+
+#headContainer{
+    padding: 0;
+    width: 100%;
+    height: 450px;
+    background: url(../images/bg1.jpg);
+   background-size: 100%;
+   
+ 
+}
+
